@@ -3,4 +3,5 @@
   <string name="base_url">http://10.0.2.2:8080/rest/qod/</string>
   <string name="client_id">594765665566-kgcu6oj59tatb9karlvlvh8e7a6c79v6.apps.googleusercontent.com</string>
   <string name="sign_in_error">Unable to login with the provided credentials</string> <!-- TODO Get from Google Clooud Console -->
+  <string name="authorization_value_format">Bearer %s</string>
 </resources>
